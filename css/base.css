@@ -193,7 +193,7 @@ a:focus {
 }
 
 .content__title {
-	font-size: 10vw;
+	font-size: 2vw;
 	will-change: transform;
 	mix-blend-mode: overlay;
 	text-align: center;
